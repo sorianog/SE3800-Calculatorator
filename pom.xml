@@ -4,7 +4,7 @@
   <artifactId>calculatorator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-    <sourceDirectory>src</sourceDirectory>
+    <sourceDirectory>src/core</sourceDirectory>
     <testSourceDirectory>src/tests</testSourceDirectory>
     <plugins>
       <plugin>
